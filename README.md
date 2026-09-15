@@ -48,6 +48,6 @@ Estudiante de **Ingeniería en Mecatrónica** enfocado en el desarrollo de **sis
 
 ## 📬 Contacto & Redes
 
-* **LinkedIn:** [[linkedin.com/in/tu-usuario](https://www.linkedin.com/in/h%C3%A9ctor-david-leiva-gamboa-474010336/)](https://linkedin.com)
+* **LinkedIn:** [https://www.linkedin.com/in/h%C3%A9ctor-david-leiva-gamboa-474010336/](https://linkedin.com)
 * **Correo:** hectorleivagamboa0741@gmail.com
 * **Correo Institucional:** h.leiva.1@estudiantec.cr
